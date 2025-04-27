@@ -1511,7 +1511,7 @@ infoBtn.onClick = function() {
 };
 
 function checkForUpdates() {
-    var githubUrl = "https://github.com/harshedits571/my-ae-updates";
+    var githubUrl = "https://raw.githubusercontent.com/harshedits571/my-ae-updates/refs/heads/main/version.json";
     var SCRIPT_VERSION = "1.1.0"; 
     var settingsFile = new File(Folder.userData.fsName + "/my-ae-script-settings.ini");
     var lastCheckTimestamp = 0;
