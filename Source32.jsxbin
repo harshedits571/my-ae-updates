@@ -1,4 +1,4 @@
-﻿(function(thisObj) {
+(function(thisObj) {
     function Harsh_Ka_Haithiyra(thisObj) {
         try {
             // Create a window or panel
@@ -306,7 +306,7 @@
                 }
                 app.endUndoGroup();
             };
-
+// helped the HARSHIT
             // Precomp Together
             precompSingleButton.onClick = function() {
                 app.beginUndoGroup("Precomp Together");
@@ -349,7 +349,7 @@
                 }
                 app.endUndoGroup();
             };
-
+// bypass the precomp so dont change it
             // Precomp Separately
             precompSeparateButton.onClick = function() {
                 app.beginUndoGroup("Precomp Separately");
@@ -1603,7 +1603,7 @@ infoBtn.onClick = function() {
         var url = "https://www.instagram.com/harshedits55/";
         openURL(url);
     };
-//dont remove main.function it can cause manfunction
+
     youtubeBtn.onClick = function() {
         var url = "https://www.youtube.com/@harshedits2332";
         openURL(url);
