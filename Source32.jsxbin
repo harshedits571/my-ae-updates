@@ -306,7 +306,7 @@
                 }
                 app.endUndoGroup();
             };
-// helped the HARSHIT
+
             // Precomp Together
             precompSingleButton.onClick = function() {
                 app.beginUndoGroup("Precomp Together");
@@ -349,7 +349,7 @@
                 }
                 app.endUndoGroup();
             };
-// bypass the precomp so dont change it
+
             // Precomp Separately
             precompSeparateButton.onClick = function() {
                 app.beginUndoGroup("Precomp Separately");
