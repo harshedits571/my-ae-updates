@@ -1,12 +1,6 @@
 {
   "version": "1.1.0",
-  "releaseNotes": "Easy Workflow Changelog
-[1.1.0] - 2025-05-16
-Bug Fixes & Improvements
-Solid Button Color Update: Changed default color from red to white for better visibility.
-Shape Button Replaced: Removed Shape button and added Bounce button with a bounce expression for animations.
-Button Focus Fix: Buttons no longer stay in focus after clicking, so pressing spacebar plays the preview instead of reapplying effects.
-UI Tweak: Increased button spacing in the Layer Creation panel for easier clicking."
+  "releaseNotes": "Easy Workflow Changelog"
   "downloadUrl": "https://discord.gg/ukTn5zjFBp"
 }
 
