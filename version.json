@@ -1,7 +1,7 @@
 {
-  "version": "1.1.0",
-  "releaseNotes": "Easy Workflow Changeloge.\n[1.1.0] - 2025-05-16\nBug Fixes & Improvements\n- Solid Button Color Update: Changed default color from red to white for better visibility.\n- Shape Button Replaced: Removed Shape button and added Bounce button with a bounce expression for animations.\n- Shape Button Replaced: Removed Shape button and added Bounce button with a bounce expression for animations\n- UI Tweak: Increased button spacing in the Layer Creation panel for easier clicking.",
-  "downloadUrl": "https://discord.gg/ukTn5zjFBp"
+  "version": "2.0.0",
+  "releaseNotes": "Easy Workflow Changelog\n[2.0.0] - 2025-08-10\nNew Features\n- Added Font Replacer panel to list and replace fonts in compositions.\n- Introduced Text Splitter to split text layers into individual words.\n- Added Effect Copier to copy/paste effects and keyed transforms.\nImprovements\n- Enhanced Anchor Point Mover to support time-varying properties.\n- Updated UI in Precomp & Center Tools panel with new button layout.\nBug Fixes\n- Improved font replacement reliability and effect pasting stability.",
+  "downloadUrl": "https://discord.gg/y3qnSA4ZbE"
 }
 
 
